@@ -1,0 +1,35 @@
+body {
+    font-family:'Helvetica';
+}
+.navbar {
+    background-color:#6B8E23;
+}
+.quem-somos {
+    background-color:honeydew;
+}
+
+.margin {
+    
+    padding-bottom:50px;
+}
+
+h3 {
+    padding-bottom: 20px;
+    padding-top:30px;
+    color:#6B8E23;
+}
+.descricao {
+    color: dimgray;
+}
+
+.parceiros {
+    background-color:whitesmoke;
+}
+.servicos {
+    background-color: honeydew;
+}
+
+.bg-footer {
+    background-color: #6B8E23;
+    color:white;
+}
